@@ -1,13 +1,15 @@
-# OctoPrint-Printercalibration
+# :fire: :iphone:  OctoPrint Printer Calibration :iphone: :fire: 
 
-**TODO:** Describe what your plugin does.
+This plugin allow you to easy parameter the calibration of your printer !
+ - Axe X - Y - Z
+ - Extruder
 
 ## Setup
 
 Install via the bundled [Plugin Manager](https://docs.octoprint.org/en/master/bundledplugins/pluginmanager.html)
 or manually using this URL:
 
-    https://github.com/SarahBourgeois/OctoPrint-Printercalibration/archive/master.zip
+    https://github.com/SarahBourgeois/OctoPrint-Calibration-Plugin/archive/master.zip
 
 **TODO:** Describe how to install your plugin, if more needs to be done than just installing it via pip or through
 the plugin manager.
@@ -15,3 +17,5 @@ the plugin manager.
 ## Configuration
 
 **TODO:** Describe your plugin's configuration options (if any).
+
+
