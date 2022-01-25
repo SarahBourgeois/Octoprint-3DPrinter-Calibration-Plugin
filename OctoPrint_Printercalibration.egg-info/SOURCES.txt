@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+OctoPrint_Printercalibration.egg-info/PKG-INFO
+OctoPrint_Printercalibration.egg-info/SOURCES.txt
+OctoPrint_Printercalibration.egg-info/dependency_links.txt
+OctoPrint_Printercalibration.egg-info/entry_points.txt
+OctoPrint_Printercalibration.egg-info/not-zip-safe
+OctoPrint_Printercalibration.egg-info/requires.txt
+OctoPrint_Printercalibration.egg-info/top_level.txt
+octoprint_printerCalibration/__init__.py
+octoprint_printerCalibration/static/css/printerCalibration.css
+octoprint_printerCalibration/static/js/printerCalibration.js
+octoprint_printerCalibration/static/less/printerCalibration.less
+octoprint_printerCalibration/templates/README.txt

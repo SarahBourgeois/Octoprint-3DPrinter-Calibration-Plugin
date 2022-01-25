@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_printerCalibration/templates *
+recursive-include octoprint_printerCalibration/translations *
+recursive-include octoprint_printerCalibration/static *

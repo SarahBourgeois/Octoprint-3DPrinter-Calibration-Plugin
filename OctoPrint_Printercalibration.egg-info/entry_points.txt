@@ -1,0 +1,3 @@
+[octoprint.plugin]
+printerCalibration = octoprint_printerCalibration
+
