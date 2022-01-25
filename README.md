@@ -1,4 +1,4 @@
-# :fire: :iphone:  OctoPrint Printer Calibration :iphone: :fire: 
+# :octopus: :iphone:  OctoPrint Printer Calibration :octopus: :fire: 
 
 This plugin allow you to easy parameter the calibration of your printer !
  - Axe X - Y - Z
